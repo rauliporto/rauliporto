@@ -1,8 +1,5 @@
 ## Página pessoal dos trabalhos efetuados por mim
 
-# brevemente mais novidades
-
-
 <div align="center" dir="auto">
   <a href="https://github.com/rauliporto">
 <img height="140em"  src="https://github-readme-stats.vercel.app/api?username=rauliporto&theme=cobalt2&show_icons=true" style="max-width: 100%;">
